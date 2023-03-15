@@ -10,22 +10,22 @@
   + [HTML Structure Basic](https://xuanthulab.net/khai-quat-ve-html.html)
   + [HTML Elements and Attributes](https://xuanthulab.net/phan-tu-html-va-cac-thuoc-tinh.html)
   + [HTML Formatting Tags](https://xuanthulab.net/cac-the-dinh-dang-van-ban-html.html)
-  + [Create List with <ul> <ol> <li>](https://xuanthulab.net/the-ol-va-ul-tao-danh-sach-html.html)
+  + [Create List with ul ol li](https://xuanthulab.net/the-ol-va-ul-tao-danh-sach-html.html)
   + [Block and Inline level elements](https://xuanthulab.net/phan-tu-html-dang-block-va-inline.html)
-  + [<div> and <span>](https://xuanthulab.net/the-div-va-span-trong-html.html)
-  + [<form> Tag, Create HTML FORM](https://xuanthulab.net/the-form-trong-html.html)
-  + [Insert Image with <img> Tag](https://xuanthulab.net/the-img-chen-anh-vao-html.html)
+  + [div and span](https://xuanthulab.net/the-div-va-span-trong-html.html)
+  + [form Tag, Create HTML FORM](https://xuanthulab.net/the-form-trong-html.html)
+  + [Insert Image with img Tag](https://xuanthulab.net/the-img-chen-anh-vao-html.html)
   + [header, nav và footer](https://xuanthulab.net/the-header-nav-header-trong-html5.html)
 
 Output: 5 easy 5 medium 1 hard exercises. 
-Correction rate: 80%.
+Correction rate: 90%.
 
 Output: 2 summarizing exercises. 
 Correction rate: 90%.
 
 #### 2. CSS Learning basic
 
-- Lession 2: CSS Basic
+- Lession CSS Basic
   + [CSS Overview](https://xuanthulab.net/css-la-gi-cach-nhung-ma-css-vao-html.html)
   + [Basic CSS Syntax](https://xuanthulab.net/cu-phap-css-co-ban.html)
   + [Selector CSS](https://xuanthulab.net/selector-chon-phan-tu-trong-css.html)
