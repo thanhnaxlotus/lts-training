@@ -4,60 +4,27 @@
 
 ### WEEK 2:
 
-#### 1. JS Basic
+#### JavaScript Learn Basic
 
-- IoC
-- DI
-- Singleton
-- Builder
-- Factory
+[JS Overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview):
+
+- Data types
+- Variables
+- Operators
+- Grammar
+- Objects
+- Arrays
+- Functions
+- Classes
+- Callbacks (https://www.w3schools.com/js/js_callback.asp)
+- Promises (https://www.w3schools.com/js/js_promise.asp)
+- Async/ Await (https://www.w3schools.com/js/js_async.asp)
+
+#### Other
+
+- [Event Loop và Bất đồng bộ trong JavaScript](https://nodejs.vn/topic/2399/event-loop-va-bat-dong-bo-trong-javascript/1)
+- [Những điều cần biết về Promise](https://viblo.asia/p/nhung-dieu-can-biet-ve-promise-javascript-bJzKmJwEZ9N)
+- [OOP TRONG JAVASCRIPT](https://toidicodedao.com/2016/02/23/series-javascript-sida-oop-trong-javascript/)
+
 Output: 1 Quiz Test . 
-Correction rate: 70% Quiz.
-
-### WEEK 4
-
-#### 5. Nest JS
-
-- [Controllers](https://docs.nestjs.com/controllers)
-- [Providers](https://docs.nestjs.com/providers)
-- [Modules](https://docs.nestjs.com/modules)
-- [Middleware](https://docs.nestjs.com/middleware)
-- [Exception Filter](https://docs.nestjs.com/exception-filters)
-- [Pipes](https://docs.nestjs.com/pipes)
-- [Guards](https://docs.nestjs.com/guards)
-- [Interceptors](https://docs.nestjs.com/interceptors)
-
-Output:2 medium 1 hard exercises. 
-Correction rate: 70%.
-
-#### 6. TypeORM
-- [Connection](https://typeorm.io/#/connection)
-- [Entity](https://typeorm.io/#/relations)
-- [Relations](https://typeorm.io/#/relations)
-- [Entity Manager and Repository](https://typeorm.io/#/working-with-entity-manager)
-- [Query Builder](https://typeorm.io/#/select-query-builder)
-
-Output: 2 summarizing exercises + 1 Quiz Test . 
-Correction rate: 80% & 70% Quiz.
-
-### WEEK 5+6
-Output:
-* Sample 1: Build Todolist
-- End-User:
-  + Authentication: Login/Register Basic
-  + Authorization: Facebook, Google
-  + Build UX/UI same as Trello
-  + JQuery/JQueryUI
-
-* Sample 2: Build mini eCommerce with NestJS
-- End-User:
-  + Authentication: Login/Register Basic
-  + Authorization: Facebook, Google
-  + Category 1 - n Product
-  + Category n - n Attribute (Suggestion EAV)
-- Operation:
-  + CRUD Category
-  + CRUD Product
- 
-Output: 1 website + Functional Design + 15 UT + All main test case run . 
-Correction rate: All Main UT & AT pass
+Correction rate: 80% Quiz.
