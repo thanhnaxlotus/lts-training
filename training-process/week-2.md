@@ -22,6 +22,7 @@
 
 #### Other
 
+- [Array Method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [Event Loop và Bất đồng bộ trong JavaScript](https://nodejs.vn/topic/2399/event-loop-va-bat-dong-bo-trong-javascript/1)
 - [Những điều cần biết về Promise](https://viblo.asia/p/nhung-dieu-can-biet-ve-promise-javascript-bJzKmJwEZ9N)
 - [OOP TRONG JAVASCRIPT](https://toidicodedao.com/2016/02/23/series-javascript-sida-oop-trong-javascript/)
