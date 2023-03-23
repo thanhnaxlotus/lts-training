@@ -2,7 +2,7 @@
 
 ---
 
-### WEEK 2:
+### WEEK 2+3:
 
 #### 1. JavaScript Learn Basic
 
